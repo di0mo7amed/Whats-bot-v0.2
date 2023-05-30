@@ -1,0 +1,6 @@
+*.log
+node_modules/
+*.db
+*-lock.json
+*.env
+plugins/test.js
